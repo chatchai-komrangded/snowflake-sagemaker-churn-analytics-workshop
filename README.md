@@ -1,0 +1,1 @@
+# snowflake-sagemaker-churn-analytics-workshop
